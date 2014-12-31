@@ -1,4 +1,4 @@
-What is Gif Maker?
+What is GIF Maker?
 =================
 
 A Mac Automator application that creates a gif out of any files that are dropped onto it.
